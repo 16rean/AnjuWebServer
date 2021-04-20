@@ -1,0 +1,6 @@
+grilledfish 0.25
+jeon 0.29
+jeon 0.31
+jeon 0.32
+squid 0.34
+sushi 0.39

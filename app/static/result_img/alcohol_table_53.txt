@@ -1,0 +1,3 @@
+salad 0.28
+muchim 0.38
+soup 0.45

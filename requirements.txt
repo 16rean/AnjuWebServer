@@ -10,11 +10,9 @@ torch>=1.7.0
 torchvision>=0.8.1
 tqdm>=4.41.0
 # addtions ----------------------------------------
-tensorflow
+# tensorflow
 flask
 requests
-werkzeug
-torch
+Werkzeug==1.0.0
 pathlib
-matplotlib
-numpy
+Frozen-Flask==0.15

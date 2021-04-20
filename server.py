@@ -4,12 +4,12 @@ from werkzeug.utils import secure_filename
 
 import os
 import datetime
-import tensorflow as tf
 import numpy as np
 
 import detect_anju
 
 app = Flask(__name__)
+
 
 
 #----------------------------------

@@ -1,0 +1,12 @@
+fork 0.27
+spoon 0.40
+spoon 0.65
+fork 0.80
+bowl 0.81
+bowl 0.86
+dining table 0.86
+bowl 0.94
+bowl 0.95
+bowl 0.95
+cup 0.95
+bowl 0.95
