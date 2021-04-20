@@ -2,11 +2,9 @@
 # base ----------------------------------------
 matplotlib
 numpy    
-Pillow
+#Pillow
 PyYAML>=5.3.1
 torch 
-torchvision
-tqdm>=4.41.0
 # addtions  ----------------------------------------
 flask
 requests
