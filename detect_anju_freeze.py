@@ -142,6 +142,8 @@ def detect(file_name):
                 print('-->Print results')
                 for c in det[:, -1].unique():
                     n = (det[:, -1] == c).sum()  # detections per class
+                    # 20210421 ysc changed txt name for linux
+                    # s += f"{n} {names[int(c)]}{'s' * (n > 1)}, "  # add to string
                     s += f"{n} {names[int(c)]}{'s' * (n > 1)}, "  # add to string
 
 
