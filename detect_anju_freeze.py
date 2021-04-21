@@ -181,7 +181,7 @@ def detect(file_name):
         #print(f"Results saved to {save_dir}{s}")
 
     #print(f'Done. ({time.time() - t0:.3f}s)')
-    print('----Done-----')
+    #print('----Done-----')
 
     return labels
 
