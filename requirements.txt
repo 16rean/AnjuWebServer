@@ -11,3 +11,4 @@ requests
 Werkzeug==1.0.0
 pathlib
 Frozen-Flask==0.15
+opencv-python
