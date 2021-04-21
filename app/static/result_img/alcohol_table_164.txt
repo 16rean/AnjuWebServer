@@ -1,3 +1,0 @@
-grilledmeat 0.29
-ramen 0.44
-nut 0.45
