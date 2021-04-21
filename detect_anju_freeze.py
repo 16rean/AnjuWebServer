@@ -166,7 +166,7 @@ def detect(file_name):
                 #    labels.append(label)
 
             # Print time (inference + NMS)
-            print(f'{s}Done. ({t2 - t1:.3f}s)')
+            #print(f'{s}Done. ({t2 - t1:.3f}s)')
 
 
             # Save results (image with detections)
