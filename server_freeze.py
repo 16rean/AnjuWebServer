@@ -6,7 +6,7 @@ import os
 import datetime
 import numpy as np
 
-import detect_anju
+import detect_anju_freeze
 
 # netlify-flask  을 위해 추가
 #pip install Frozen-Flask
