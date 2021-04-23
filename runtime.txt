@@ -1,1 +1,1 @@
-python38
+PYTHON_VERSION = 3.5
